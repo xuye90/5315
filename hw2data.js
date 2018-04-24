@@ -2,7 +2,7 @@
   "data": [
     {
       "name": "James Bond",
-      "email": "Accountant",
+      "email": "Accountant"
     },
     {
       "name": "Brielle Williamson",
