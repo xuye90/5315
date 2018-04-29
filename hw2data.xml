@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+  <customers>
+    <data>
+      <name>Spencer Bond</name>
+      <email>spencerbond@gmail.com</email>
+      <street_address>70 Bowman Street</street_address>
+      <city>Bellevue</city>
+      <state>Washington</state>
+      <phone>4252718568</phone>
+    </data>
+    <data>
+      <name>Gordon Slater</name>
+      <email>gordon.slater@gmail.com</email>
+      <street_address>123 6th Street</street_address>
+      <city>Renton</city>
+      <state>Washington</state>
+      <phone>4252328790</phone>
+    </data>
+    <data>
+      <name>Angela Miller</name>
+      <email>angela.miller@hotmail.com</email>
+      <street_address>71 Pilgrim Avenue</street_address>
+      <city>Issaquah</city>
+      <state>Washington</state>
+      <phone>7342459764</phone>
+    </data>
+    <data>
+      <name>Wanda Nash</name>
+      <email>wanda.nash@gmail.com</email>
+      <street_address>744 Shirley Avenue</street_address>
+      <city>Bellevue</city>
+      <state>Washington</state>
+      <phone>4578462846</phone>
+    </data>
+    <data>
+      <name>Grace Paterson</name>
+      <email>grace.paterson@gmail.com</email>
+      <street_address>4 Goldfield Road</street_address>
+      <city>Kirkland</city>
+      <state>Washington</state>
+      <phone>4295736485</phone>
+    </data>
+    <data>
+      <name>Owen Young</name>
+      <email>sowen.young@gmail.com</email>
+      <street_address>514 S. Magnolia Street</street_address>
+      <city>Bellevue</city>
+      <state>Washington</state>
+      <phone>4738475937</phone>
+    </data>
+    <data>
+      <name>Katherine Smith</name>
+      <email>katherine.smith@gmail.com</email>
+      <street_address>108 Cypress Lane</street_address>
+      <city>Bothell</city>
+      <state>Washington</state>
+      <phone>4857362849</phone>
+    </data>
+    <data>
+      <name>Jonathan Ellison</name>
+      <email>jonathan.ellison@gmail.com</email>
+      <street_address>193 Indian Summer Avenue</street_address>
+      <city>Sammamish</city>
+      <state>Washington</state>
+      <phone>4596732738</phone>
+    </data>
+    <data>
+      <name>Lauren Turner</name>
+      <email>lauren.turner@gmail.com</email>
+      <street_address>139 Hartford Dr</street_address>
+      <city>Bellevue</city>
+      <state>Washington</state>
+      <phone>7364859265</phone>
+    </data>
+    <data>
+      <name>Andrea Terry</name>
+      <email>andrea.terry@hotmail.com</email>
+      <street_address>8562 Pearl Street</street_address>
+      <city>Bellevue</city>
+      <state>Washington</state>
+      <phone>5483967233</phone>
+    </data>
+    <data>
+      <name>Alexander Graham</name>
+      <email>alexander.graham@gmail.com</email>
+      <street_address>238 Bowman Drive</street_address>
+      <city>Renton</city>
+      <state>Washington</state>
+      <phone>3758395768</phone>
+    </data>
+    <data>
+      <name>Isaac Morgan</name>
+      <email>isaac.morgan@gmail.com</email>
+      <street_address>7835 Ohio Street</street_address>
+      <city>Redmond</city>
+      <state>Washington</state>
+      <phone>6374928465</phone>
+    </data>
+        <data>
+      <name>Sonia Grant</name>
+      <email>sonia.grant@gmail.com</email>
+      <street_address>291 Magnolia Avenue</street_address>
+      <city>Bellevue</city>
+      <state>Washington</state>
+      <phone>7635485937</phone>
+    </data>
+    <data>
+      <name>Michael Avery</name>
+      <email>michael.avery@gmail.com</email>
+      <street_address>33 Studebaker Street</street_address>
+      <city>Redmond</city>
+      <state>Washington</state>
+      <phone>6748374657</phone>
+    </data>
+    <data>
+      <name>Thomas Bower</name>
+      <email>thomas.bower@gmail.com</email>
+      <street_address>456 Vine Drive</street_address>
+      <city>Everret</city>
+      <state>Washington</state>
+      <phone>8475738587</phone>
+    </data>
+  </customers>
